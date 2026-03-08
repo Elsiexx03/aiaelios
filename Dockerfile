@@ -1,5 +1,3 @@
-
-```dockerfile
 FROM python:3.12-slim
 
 # 安装系统依赖
